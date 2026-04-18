@@ -1,0 +1,13 @@
+[submodule "casadi"]
+	path = casadi
+	url = git@github.com:apozharski/casadi.git
+	branch = ap/ccopt
+[submodule "libMad"]
+	path = libMad
+	url = git@github.com:apozharski/libMad.git
+[submodule "LCQPTest"]
+	path = LCQPTest
+	url = git@github.com:apozharski/LCQPTest.git
+[submodule "nosbench"]
+	path = nosbench
+	url = git@github.com:nosnoc/nosbench.git
