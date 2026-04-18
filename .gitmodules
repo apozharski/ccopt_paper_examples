@@ -17,3 +17,6 @@
 [submodule "MPCCbenchmark.jl"]
 	path = MPCCbenchmark.jl
 	url = git@github.com:MadNLP/MPCCbenchmark.jl.git
+[submodule "nosnoc"]
+	path = nosnoc
+	url = git@github.com:nosnoc/nosnoc.git
