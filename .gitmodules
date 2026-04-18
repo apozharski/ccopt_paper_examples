@@ -11,3 +11,6 @@
 [submodule "nosbench"]
 	path = nosbench
 	url = git@github.com:nosnoc/nosbench.git
+[submodule "CCOpt.jl"]
+	path = CCOpt.jl
+	url = git@github.com:MadNLP/CCOpt.jl.git
