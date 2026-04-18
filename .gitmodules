@@ -14,3 +14,6 @@
 [submodule "CCOpt.jl"]
 	path = CCOpt.jl
 	url = git@github.com:MadNLP/CCOpt.jl.git
+[submodule "MPCCbenchmark.jl"]
+	path = MPCCbenchmark.jl
+	url = git@github.com:MadNLP/MPCCbenchmark.jl.git
